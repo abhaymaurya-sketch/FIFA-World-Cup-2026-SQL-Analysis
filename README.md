@@ -79,7 +79,7 @@ Images/
 
 ## 📬 Connect with Me
 
-LinkedIn:
+LinkedIn:www.linkedin.com/in/abhay-maurya-a6673a2b9
 ```
 (Add your LinkedIn profile link here)
 ```
